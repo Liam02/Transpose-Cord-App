@@ -1,5 +1,7 @@
 # Transpose-Cord-App
 
+Name: Liam Scoles
+
 This is the code for an app that takes a song name and returns all the cords for each lyric. The cords can be transposed up or down.
 
 node.js version: v18.13.0
